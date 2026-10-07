@@ -1,160 +1,160 @@
 [[DAQP]]
 arch = "aarch64"
-git-tree-sha1 = "9332691c9faf756685c17327f88f957da6b9e08f"
+git-tree-sha1 = "3d68fe3115e1aa2ae99dfc3dce917b204cf28057"
 os = "macos"
 
     [[DAQP.download]]
-    sha256 = "e3f56fff730256b4dad55bba147cad2db3c91906bb04c0ba1ea172d2fd1343b9"
-    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.5+0/DAQP.v0.10.5.aarch64-apple-darwin.tar.gz"
+    sha256 = "0573a5b76c46a8bf5d9bd213b8d5b52449f9300f0d46b627d827796e44a45ada"
+    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.6+0/DAQP.v0.10.6.aarch64-apple-darwin.tar.gz"
 [[DAQP]]
 arch = "aarch64"
-git-tree-sha1 = "b53e8d204de7896cee4032b6bdc3ccce6d426280"
+git-tree-sha1 = "e4aee5c29abddd8e6dd95943b358768890b5cdd6"
 libc = "glibc"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "c3c7b61ac7a02ca5bf12af67fa2d42abf013ef89ee5daa6cc70a9be9047fb084"
-    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.5+0/DAQP.v0.10.5.aarch64-linux-gnu.tar.gz"
+    sha256 = "af331147c740f912993aacabceae737f23206245351f65b08cf972f85347ba16"
+    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.6+0/DAQP.v0.10.6.aarch64-linux-gnu.tar.gz"
 [[DAQP]]
 arch = "aarch64"
-git-tree-sha1 = "4437e684ad7ffde49d646311dd423b2531b7078b"
+git-tree-sha1 = "ff6dd35d645954dc880b6f8fb00e21469f47b6af"
 libc = "musl"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "c42a9b99e1d73ad467bc0db9eee0e8b783a7735d9d7f8370009bdcbf0a9d8f2a"
-    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.5+0/DAQP.v0.10.5.aarch64-linux-musl.tar.gz"
+    sha256 = "91fabbe713a03e9bdcc643268c3e458e68be580ba76fa53b02a9c7b0c8ab32c0"
+    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.6+0/DAQP.v0.10.6.aarch64-linux-musl.tar.gz"
 [[DAQP]]
 arch = "aarch64"
-git-tree-sha1 = "f839c97063a2e201d800ff16099f223c17cda93a"
+git-tree-sha1 = "00fac1d84a97398b1ca6aa54dce3a6d4b3776361"
 os = "freebsd"
 
     [[DAQP.download]]
-    sha256 = "52eab5c81b38249fcdc636573f06125de0c53f0849c6f842c720e9a3f55fbb59"
-    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.5+0/DAQP.v0.10.5.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "01e50a5361b92b39d1224c596f37f2734fc00f7a177e4be69363c9db3856dc84"
+    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.6+0/DAQP.v0.10.6.aarch64-unknown-freebsd.tar.gz"
 [[DAQP]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "9d80eb80fe395c3dd603abaf8bb2ba55ab886ee2"
+git-tree-sha1 = "0d464900035ff40874847cdb09a67edb11e5ec3f"
 libc = "glibc"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "6424a6f73dd1efe83ee4400bc164d37dda6fc9a632ef745550f97f585a39a823"
-    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.5+0/DAQP.v0.10.5.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "7e81a4a92aeac3fa911747b955187fc93c194437fae5dd31ac64327a76fc3d18"
+    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.6+0/DAQP.v0.10.6.armv6l-linux-gnueabihf.tar.gz"
 [[DAQP]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "296891e436ba250a356f6198a4f09de8b5de3ecf"
+git-tree-sha1 = "874a0e01714283465912e4d0f628e9ac20806f83"
 libc = "musl"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "e0866dfdaaf0e766758346e9325bcee8df8c2a7152618bad9a6cb8e40b244255"
-    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.5+0/DAQP.v0.10.5.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "83c43febe7461bdde90a7704daa261e01de4542c6b2596e2005f41a7f86c5ea3"
+    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.6+0/DAQP.v0.10.6.armv6l-linux-musleabihf.tar.gz"
 [[DAQP]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "4d0ff822770f24ec242df5831a3e235126c0d29d"
+git-tree-sha1 = "47c77259b4488e62060f49a1f3d5fe930b282252"
 libc = "glibc"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "31b2deeeeb19e27dd7df06ab09c088f91e6d343b4393f77c19f37057eca5fcff"
-    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.5+0/DAQP.v0.10.5.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "fa2d6beb303cd877509ff0c4def0b953aea48f61374fe529105d33c78f373e99"
+    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.6+0/DAQP.v0.10.6.armv7l-linux-gnueabihf.tar.gz"
 [[DAQP]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "0738ae75f26debc94c777f1574a74fbc4ff2cc10"
+git-tree-sha1 = "6e5e84f63b250f33435682f6f9f0a8071049a203"
 libc = "musl"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "468905ed6d9bd434b328c0510b18aef9004ea1300cb4d60680f6977e87570a34"
-    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.5+0/DAQP.v0.10.5.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "40b4bb7c79e4fad579488ed4e1dc8c800011d1724a6b788f2fd186c5b219829c"
+    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.6+0/DAQP.v0.10.6.armv7l-linux-musleabihf.tar.gz"
 [[DAQP]]
 arch = "i686"
-git-tree-sha1 = "35824263e814d643c5fe33f68ad75cac41d2ac48"
+git-tree-sha1 = "1981093ec6ba45b5f95669491aada57459aa46ea"
 libc = "glibc"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "ec524f115df424fe3ef16954476577073bc0ca35413c1d3a53ccb0f3f672e312"
-    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.5+0/DAQP.v0.10.5.i686-linux-gnu.tar.gz"
+    sha256 = "7c6a3b77e22f9dcab1942a2223c0bf29ed95cd539999ff24606c90a9dded562f"
+    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.6+0/DAQP.v0.10.6.i686-linux-gnu.tar.gz"
 [[DAQP]]
 arch = "i686"
-git-tree-sha1 = "86e5d0caa5ff6042118b22eadf1d884d7b73d409"
+git-tree-sha1 = "0d5e2c76f69cf161687a54bb383e2ea71c5432f7"
 libc = "musl"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "85562d067e1fd47c8acc421cfba206baa84703b929a0c365cef0a8b0307aa015"
-    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.5+0/DAQP.v0.10.5.i686-linux-musl.tar.gz"
+    sha256 = "b49deed796409af4de446a28e0dbcd576835e3de537020809dc453085ac9b9a9"
+    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.6+0/DAQP.v0.10.6.i686-linux-musl.tar.gz"
 [[DAQP]]
 arch = "i686"
-git-tree-sha1 = "2a3c5412dc1d70b5b38ab69686524f08f878b23c"
+git-tree-sha1 = "c213bdeb076dc362c38c272c08eae78715441c27"
 os = "windows"
 
     [[DAQP.download]]
-    sha256 = "ad841fca3faa92811bc74b2307873f02c3829d737b7c494c49222a3226d5f558"
-    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.5+0/DAQP.v0.10.5.i686-w64-mingw32.tar.gz"
+    sha256 = "309491d4bdfbe27f4bbb029d6a536a7df304c1eca97985687fdfbd7350d00fe6"
+    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.6+0/DAQP.v0.10.6.i686-w64-mingw32.tar.gz"
 [[DAQP]]
 arch = "powerpc64le"
-git-tree-sha1 = "88263b1194e1d70b997ed6227052ae84b7ec04a5"
+git-tree-sha1 = "e190b008a1c7266b2fe64373bb07520099861a8a"
 libc = "glibc"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "b045145db9feeda8dd190caa9b430067c5cd063719da0412db92f777b87b7fee"
-    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.5+0/DAQP.v0.10.5.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "00477f22c24b601115c86cf0a2fc6f072a20f2246ef539effbaa88c731891596"
+    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.6+0/DAQP.v0.10.6.powerpc64le-linux-gnu.tar.gz"
 [[DAQP]]
 arch = "riscv64"
-git-tree-sha1 = "47edd462e27775142850d1ae1e892d956d6fa1a3"
+git-tree-sha1 = "702997bce7fd2cec402da1ee0e736e1da1807e7e"
 libc = "glibc"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "2fe42dbdfa1062e7fc03d41f2f5ef1c4d3bb4a729d075324f7f6a64d1e16930c"
-    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.5+0/DAQP.v0.10.5.riscv64-linux-gnu.tar.gz"
+    sha256 = "756e857503e3e36202c45ce58d7e250cf4019fc46800dc031aaed972e12aada0"
+    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.6+0/DAQP.v0.10.6.riscv64-linux-gnu.tar.gz"
 [[DAQP]]
 arch = "x86_64"
-git-tree-sha1 = "8799977dbf463e79cbb2bad2fb34c5f2056ff3cb"
+git-tree-sha1 = "2e4395be2cc6593d42b2bb0b2badb38ead3ae2ea"
 os = "macos"
 
     [[DAQP.download]]
-    sha256 = "6d0182f582c0c99ad934e4f490477ba8dced2c4c2a88c52cf860baf6dab20cda"
-    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.5+0/DAQP.v0.10.5.x86_64-apple-darwin.tar.gz"
+    sha256 = "d46e2d02c0900b567bcc132a0b9521760ca47cd8910f59cb03386aa502fa8d2f"
+    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.6+0/DAQP.v0.10.6.x86_64-apple-darwin.tar.gz"
 [[DAQP]]
 arch = "x86_64"
-git-tree-sha1 = "0d39e651a9a8f0989f15db9acad9234ee042534e"
+git-tree-sha1 = "dd011b9ec19134d82fb833be8e922c505d9b81e6"
 libc = "glibc"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "55a0b0be7a71ea26da6877f9b3c133dea2d6c11359268615aa0cec7f019c61a4"
-    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.5+0/DAQP.v0.10.5.x86_64-linux-gnu.tar.gz"
+    sha256 = "55ba59981a233ffcf987d9c7785d81d88f7a39b83fabac63f2014f0608b425a4"
+    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.6+0/DAQP.v0.10.6.x86_64-linux-gnu.tar.gz"
 [[DAQP]]
 arch = "x86_64"
-git-tree-sha1 = "7835bd979ddc14ef63aeacb2d2a3c9e005595f3e"
+git-tree-sha1 = "8887a2319fccfc38bfc072b8ec4e97d398ab689d"
 libc = "musl"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "366dcd76b0f3ad32c7ba41872a0155c58c772e7b6bbf014205679bde91ba1f90"
-    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.5+0/DAQP.v0.10.5.x86_64-linux-musl.tar.gz"
+    sha256 = "92efc88ef7b63795d4e294ccc6895cc83bdcc327acc0e73eb376c16112bba951"
+    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.6+0/DAQP.v0.10.6.x86_64-linux-musl.tar.gz"
 [[DAQP]]
 arch = "x86_64"
-git-tree-sha1 = "2c83894a132c72956074c2d2f955ed7404ba625e"
+git-tree-sha1 = "11b6fb0deffe83faf5a5cdbbe665d61be2d358ab"
 os = "freebsd"
 
     [[DAQP.download]]
-    sha256 = "79b6c86479d439a1360417ad22221a546c0371e269ce81d8d3fcaaf3c559d2e0"
-    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.5+0/DAQP.v0.10.5.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "37d9b13d4ed4cea6a060b683d95910572714d4871858fbbab6c1e3ce0426bc22"
+    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.6+0/DAQP.v0.10.6.x86_64-unknown-freebsd.tar.gz"
 [[DAQP]]
 arch = "x86_64"
-git-tree-sha1 = "81941257c9b2dda1f02376d880a7d290c029547a"
+git-tree-sha1 = "bbaa037fe8b2e3130219384dd0c8139ace72488b"
 os = "windows"
 
     [[DAQP.download]]
-    sha256 = "e3d47c90768cc25e913da0a67a4dcbd096efaa92cabf1d792de8a094404de628"
-    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.5+0/DAQP.v0.10.5.x86_64-w64-mingw32.tar.gz"
+    sha256 = "57c5eb766c922a8a360a7df595ad1f4e9e82036429d9d186af55e98a712ffd34"
+    url = "https://github.com/baggepinnen/DAQP_jll.jl/releases/download/DAQP-v0.10.6+0/DAQP.v0.10.6.x86_64-w64-mingw32.tar.gz"
