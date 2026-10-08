@@ -1,6 +1,6 @@
 name = "DAQP_jll"
 uuid = "5c51c916-43bf-57fe-9d62-13064ebbf40d"
-version = "0.10.6+0"
+version = "0.10.7+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
